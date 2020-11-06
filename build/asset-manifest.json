@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kidoo/static/css/main.22b564db.chunk.css",
+    "main.js": "/kidoo/static/js/main.111051ac.chunk.js",
+    "main.js.map": "/kidoo/static/js/main.111051ac.chunk.js.map",
+    "runtime-main.js": "/kidoo/static/js/runtime-main.bd45b78b.js",
+    "runtime-main.js.map": "/kidoo/static/js/runtime-main.bd45b78b.js.map",
+    "static/js/2.0c80fbfb.chunk.js": "/kidoo/static/js/2.0c80fbfb.chunk.js",
+    "static/js/2.0c80fbfb.chunk.js.map": "/kidoo/static/js/2.0c80fbfb.chunk.js.map",
+    "index.html": "/kidoo/index.html",
+    "static/css/main.22b564db.chunk.css.map": "/kidoo/static/css/main.22b564db.chunk.css.map",
+    "static/js/2.0c80fbfb.chunk.js.LICENSE.txt": "/kidoo/static/js/2.0c80fbfb.chunk.js.LICENSE.txt",
+    "static/media/image1.6991865d.png": "/kidoo/static/media/image1.6991865d.png",
+    "static/media/image2.8db87cac.png": "/kidoo/static/media/image2.8db87cac.png",
+    "static/media/image3.af4caf9f.png": "/kidoo/static/media/image3.af4caf9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd45b78b.js",
+    "static/js/2.0c80fbfb.chunk.js",
+    "static/css/main.22b564db.chunk.css",
+    "static/js/main.111051ac.chunk.js"
+  ]
+}
