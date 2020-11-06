@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+   
+    
+  }
+  .image2{
+    
+      height: 230px;
+      width: 270px;
+  
+  }
+  .abt ul li{
+    text-align: left;
+}
+
+
+  @media only screen and ( min-width: 992px){
+    .image2{
+    
+        height: 400px;
+        width: 700px;
+    }
+    .container{
+        display: flex;
+
+    }
+    .abt ul li{
+        text-align: left;
+    }
+
+  }
