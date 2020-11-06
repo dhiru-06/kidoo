@@ -21,7 +21,8 @@ export function Home() {
                                      <div>
                                         <h3> Play</h3>
                                         <p>As a parent, you probably love to see your child playing. It’s incredible to hear
-                                            their ideas and to learn about the new worlds they create.  
+                                            their ideas and to learn they create
+                                             .  
                                             </p>
                                     </div>
                                  </div>
@@ -30,14 +31,14 @@ export function Home() {
                                 <div>
                                     <h3>Learn</h3>
                                     <p>Play allows children to use their creativity while developing their imagination, 
-                                        dexterity, and physical, cognitive, and emotional strength </p>
+                                         and emotional strength </p>
                                 </div>
                             </div>
                             <div class="item">
                             <i class="fas fa-shapes fa-2x"></i>
                                 <div>
                                     <h3>Create</h3>
-                                    <p>Students learn critical thinking skills, develop their language abilities, 
+                                    <p>Students learn critical thinking skills, 
                                         expand their range of knowledge and increase their social and creativity
                                      </p>
                                 </div>
